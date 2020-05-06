@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+  font-size: 60px;
+  background-color: yellow;
+}
+p {
+  color: blue;
+  font-size: 30px;
+}
+li {
+  color: green;
+  font-size: 40px;
+  background-color: white;
+}
+div {
+  color: brown;
+}
